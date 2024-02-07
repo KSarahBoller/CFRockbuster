@@ -12,4 +12,4 @@ The data set for this project was provided by Career Foundry and contains inform
 # Tools
 The data was analyzed using a relational database management system and PostgreSQL.
 # Visualizations and Presentation
-All visualizations were created in Tableau and can be viewed [**here**](https://us-west-2b.online.tableau.com/#/site/ksarahboller/views/Immersion2_9Boller/InfluenzaStaffingInfo/275ac947-94e9-4519-8bd7-73afe6042f9a/3d0084f8-6473-40e6-bfd0-54992731be2f). An accompaning presentation was recorded using Loom and can be watch [**here**](https://www.loom.com/share/ca0621302ea84067b481a8d112a8f10e?sid=42f57f7f-9b58-4a75-a8b7-4189c6017347).
+
