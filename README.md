@@ -11,5 +11,5 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 The data set for this project was provided by Career Foundry and contains information about Rockbuster’s film inventory, customers, stores, employees, payments, among other details.
 # Tools
 The data was analyzed using a relational database management system and PostgreSQL.
-# Visualizations and Presentation
-
+# Visualizations
+I created a powerpoint presentation exploring and answering the key questions asked by the Business Intelligence Department. 
